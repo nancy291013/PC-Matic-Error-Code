@@ -17,7 +17,7 @@ This guide dives into handling common **PC Matic error codes**. We'll explain wh
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/kaspersky-login
+   :target: https://accuratelivechat.com
 Understanding PC Matic Error Codes
 ----------------------------------
 
